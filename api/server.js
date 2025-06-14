@@ -28,19 +28,13 @@ server.get('/api/pets', async (req, res, next) => {
 })
 
 // [POST] /api/pets
-server.post('/api/pets', async (req, res, next) => {
-  // 👉 IMPLEMENT
-})
+// 👉 IMPLEMENT
 
 // [PUT] /api/pets/:id
-server.put('/api/pets/:id', async (req, res, next) => {
-  // 👉 IMPLEMENT
-})
+// 👉 IMPLEMENT
 
 // [DELETE] /api/pets/:id
-server.delete('/api/pets/:id', async (req, res, next) => {
-  // 👉 IMPLEMENT
-})
+// 👉 IMPLEMENT
 
 // [CATCH-ALL]
 server.use('*', (req, res, next) => {
