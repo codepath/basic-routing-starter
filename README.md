@@ -8,3 +8,12 @@
 npm install
 npm run dev
 ```
+
+## Lesson plan
+
+During this lesson we will implement
+
+- [GET] /api/pets/:id
+- [POST] /api/pets
+- [PUT] /api/pets/:id
+- [DELETE] /api/pets/:id
