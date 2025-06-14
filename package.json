@@ -4,7 +4,7 @@
   "author": "gabriel@cabrejas.net",
   "repository": {
     "type": "git",
-    "url": "https://github.com/codepath/prisma-express-setup.git"
+    "url": "https://github.com/codepath/basic-routing-starter.git"
   },
   "license": "MIT",
   "scripts": {
